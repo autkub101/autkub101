@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @autkub101
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning HTML/CSS/PHP/JS
+- 👀 I’m interested in C++,Python
+- 🌱 I’m currently learning HTML, CSS, PHP, JS
 - 📫 How to reach me aut70441@gmail.com
